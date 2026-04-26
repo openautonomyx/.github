@@ -1,0 +1,10 @@
+# Default organization-level ownership.
+# Repositories can override this file with their own CODEOWNERS.
+
+* @openautonomyx/admins
+
+# Shared governance and policy files should receive owner review.
+.github/** @openautonomyx/admins
+policies/** @openautonomyx/admins
+standards/** @openautonomyx/admins
+AGENTS.md @openautonomyx/admins
